@@ -2,3 +2,7 @@
 
 
 Aprendiento NodeJs
+
+```
+npm install
+```
